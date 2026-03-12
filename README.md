@@ -56,28 +56,9 @@ Encoded Features → Dense(64) → Dropout → Dense(32) → Softmax Output
 - Recall
 - F1-Score
 - Confusion Matrix
+## 📌 Applications
 
-## 📷 Output Example
-
-The model generates a confusion matrix to evaluate classification performance.
-
-## ▶️ How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/deep-learning-feature-learning.git
-
-Install dependencies:
-
-pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
-
-Run the project:
-
-python deep_learning_feature_learning.py
-📌 Applications
-
-This automated feature learning approach can be applied in:
+This automated feature learning approach can be applied in several domains:
 
 Medical diagnosis
 
@@ -89,13 +70,29 @@ High-dimensional data analysis
 
 Predictive analytics
 
+## 📷 Output Example
+
+The model generates a confusion matrix to evaluate classification performance.
+
+## ▶️ How to Run
+
+Clone the repository:
+git clone https://github.com/yourusername/deep-learning-feature-learning.git
+
+
+##▶️ Installation and Usage
+Install Dependencies
+pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
+##Run the Project
+python deep_learning_feature_learning.py
 👩‍💻 Author
 
 Lakshmi Karra
 B.Tech Student | Machine Learning Enthusiast
 
+GitHub:
+https://github.com/pandu1437
 
----
 
 
 
