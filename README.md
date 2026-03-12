@@ -81,10 +81,16 @@ git clone https://github.com/yourusername/deep-learning-feature-learning.git
 
 
 ##▶️ Installation and Usage
+
+
 Install Dependencies
 pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
+
+
 ##Run the Project
 python deep_learning_feature_learning.py
+
+
 👩‍💻 Author
 
 Lakshmi Karra
@@ -92,6 +98,7 @@ B.Tech Student | Machine Learning Enthusiast
 
 GitHub:
 https://github.com/pandu1437
+
 
 
 
